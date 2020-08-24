@@ -7,6 +7,7 @@
     <a href="https://twitter.com/gdhebling"><img alt="twitter" width="26px"
             src="https://image.flaticon.com/icons/svg/733/733579.svg" /></a>
 </p>
+<br>
 <h4 align="center"> Currently focused on HTML, CSS and JavaScript. </h4>
 <h5 align="center"> Some technologies and tools I'm learning: </h5>
 <p align="center">
