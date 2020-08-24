@@ -1,4 +1,4 @@
-<h1 align="center"> Hi! I'm Gui! 👋 </h1>
+<h1 align="center"> Hi! I'm Gui. 👋 </h1>
 <p align="center"> I'm a Front-End Web Developer</p>
 <p align="center">
     <a href="https://www.linkedin.com/in/guilhermedurso/"><img alt="linkedin" width="26px"
