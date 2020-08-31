@@ -1,7 +1,7 @@
 <h1 align="center"> Hi! I'm Gui. 👋 </h1>
 <p align="center"> I'm a Front-End Web Developer</p>
 <p align="center">
-    <a href="https://www.linkedin.com/in/guilhermedurso/"><img alt="linkedin" width="26px"
+    <a href="https://www.linkedin.com/in/gdhebling/"><img alt="linkedin" width="26px"
             src="https://image.flaticon.com/icons/svg/1383/1383262.svg" /></a>
     &nbsp;&nbsp;
     <a href="https://twitter.com/gdhebling"><img alt="twitter" width="26px"
