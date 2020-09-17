@@ -25,9 +25,12 @@
     <a href="https://github.com/gdhebling"><img align="center" alt="Visual Studio Code" width="26px"
             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
 </p>
+
+<!-- Commented Out due to Tailwind CSS file messing with the percentages. :)
 <h4 align="center"> My Github Repos: </h4>
 <p align="center"> These are the languages used on my GitHub repositories. </p>
 <p align="center">
     <a href="https://github.com/gdhebling"><img align="center" alt="Guilherme's Github Stats"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdhebling&layout=compact)](https://github.com/anuraghazra/github-readme-stats" /></a>
 </p>
+-->
