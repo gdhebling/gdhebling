@@ -18,6 +18,8 @@
             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></a>&nbsp;&nbsp;
     <a href="https://github.com/gdhebling"><img align="center" alt="JavaScript" width="26px"
             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>&nbsp;&nbsp;
+     <a href="https://github.com/gdhebling"><img align="center" alt="React" width="26px"
+            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a>&nbsp;&nbsp;
     <a href="https://github.com/gdhebling"><img align="center" alt="Git" width="26px"
             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></a>&nbsp;&nbsp;
     <a href="https://github.com/gdhebling"><img align="center" alt="GitHub" width="26px"
@@ -25,6 +27,7 @@
     <a href="https://github.com/gdhebling"><img align="center" alt="Visual Studio Code" width="26px"
             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
 </p>
+
 
 <!-- Commented Out due to Tailwind CSS file messing with the percentages. :)
 <h4 align="center"> My Github Repos: </h4>
