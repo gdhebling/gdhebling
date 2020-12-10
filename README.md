@@ -11,8 +11,7 @@
             src="https://image.flaticon.com/icons/svg/1383/1383265.svg" /></a>
 </p>
 <h3 align="center"> I'm a Front-End Web Developer</h3>
-<h4 align="center"> I build web applications and user interfaces <br> mainly using HTML, CSS and JavaScript.</h4>
-<h4 align="center">  </h4> 
+<h4 align="center"> I build web applications and user interfaces <br> mainly using HTML, CSS/SCSS, JavaScript, and React.</h4>
 
 <h3 align="center"> Some technologies and tools I'm learning: </h3>
 <p align="center">
@@ -28,6 +27,7 @@
             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" /></a>&nbsp;&nbsp;  
     <a href="https://github.com/gdhebling"><img align="center" alt="React" width="26px"
             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a>&nbsp;&nbsp;
+    <a href="https://github.com/gdhebling"><img align="center" alt="Gatsby" width="26px" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" /></a>&nbsp;&nbsp;
     <a href="https://github.com/gdhebling"><img align="center" alt="Git" width="26px"
             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></a>&nbsp;&nbsp;
     <a href="https://github.com/gdhebling"><img align="center" alt="Visual Studio Code" width="26px"
