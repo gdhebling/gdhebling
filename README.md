@@ -11,7 +11,7 @@
             src="https://image.flaticon.com/icons/svg/1383/1383265.svg" /></a>
 </p>
 <h3 align="center"> I'm a Front-End Web Developer</h3>
-<h4 align="center"> I have an interest in developing and designing <br> web applications and user interfaces <br> using mainly HTML, CSS/SCSS, JavaScript, and React.</h4>
+<h4 align="center"> I have an interest in designing and developing <br> web applications and user interfaces <br> using mainly HTML, CSS/SCSS, JavaScript, and React.</h4>
 
 <h3 align="center"> Some of the technologies I'm working with: </h3>
 <p align="center">
