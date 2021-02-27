@@ -22,9 +22,9 @@
     <a href="https://gdhebling.com"><img align="center" alt="Sass" width="26px"
             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></a>&nbsp;&nbsp;
     <a href="https://gdhebling.com"><img align="center" alt="JavaScript" width="26px"
-            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>&nbsp;
+            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>&nbsp;&nbsp;
     <a href="https://gdhebling.com"><img align="center" alt="TypeScript" width="26px"
-            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /></a>&nbsp;&nbsp;
+            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /></a>&nbsp;
     <a href="https://gdhebling.com"><img align="center" alt="React" width="30px"
             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a>&nbsp;&nbsp;
     <a href="https://gdhebling.com"><img align="center" alt="Gatsby" width="26px" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" /></a>
