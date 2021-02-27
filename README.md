@@ -10,8 +10,8 @@
     <a href="https://twitter.com/gdhebling"><img alt="twitter" width="26px"
             src="https://image.flaticon.com/icons/svg/1383/1383265.svg" /></a>
 </p>
-<h3 align="center"> I'm a Front-End Web Developer</h3>
-<h4 align="center"> I design and develop web applications and user interfaces <br> using mainly HTML, CSS/SCSS, JavaScript, and React.</h4>
+<h3 align="center"> I'm a Front-End Developer based in Oslo, Norway</h3>
+<h4 align="center">Passionate about designing and developing clean and user-centered interfaces.</h4>
 
 <h3 align="center"> Some of the technologies I'm working with: </h3>
 <p align="center">
