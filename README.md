@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://gdhebling.com"><img alt="website" width="26px"
-            src="https://www.flaticon.com/svg/static/icons/svg/1828/1828555.svg" /></a>
+            src="https://image.flaticon.com/icons/png/512/1828/1828555.png" /></a>
     &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/gdhebling/"><img alt="linkedin" width="26px"
             src="https://image.flaticon.com/icons/svg/1383/1383262.svg" /></a>
@@ -27,7 +27,8 @@
             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /></a>&nbsp;
     <a href="https://gdhebling.com"><img align="center" alt="React" width="30px"
             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a>&nbsp;&nbsp;
-    <a href="https://gdhebling.com"><img align="center" alt="Gatsby" width="26px" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" /></a>
+    <a href="https://gdhebling.com"><img align="center" alt="Gatsby" width="26px" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" /></a>&nbsp;&nbsp;
+    <a href="https://gdhebling.com"><img align="center" alt="Next.js" width="26px" src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" /></a>
 </p>
 
 
