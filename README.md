@@ -5,10 +5,10 @@
             src="https://image.flaticon.com/icons/png/512/1828/1828555.png" /></a>
     &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/gdhebling/"><img alt="linkedin" width="26px"
-            src="https://image.flaticon.com/icons/svg/1383/1383262.svg" /></a>
+            src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" /></a>
     &nbsp;&nbsp;
     <a href="https://twitter.com/gdhebling"><img alt="twitter" width="26px"
-            src="https://image.flaticon.com/icons/svg/1383/1383265.svg" /></a>
+            src="https://cdn1.iconfinder.com/data/icons/logotypes/32/twitter-512.png" /></a>
 </p>
 <h3 align="center"> I'm a Front-End Developer based in Oslo, Norway</h3>
 <h4 align="center">Passionate about designing and developing clean and user-centered interfaces.</h4>
