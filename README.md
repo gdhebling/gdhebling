@@ -1,11 +1,11 @@
 <h1 align="center"> Hi! I'm Gui. 👋 </h1>
 
 <p align="center">
-    <a href="https://gdhebling.com"><img alt="website" width="26px"
-            src="https://image.flaticon.com/icons/png/512/1828/1828555.png" /></a>
+    <a href="https://www.linkedin.com/in/gdhebling/"><img alt="linkedin" width="26px"
+            src="https://cdn1.iconfinder.com/data/icons/jumpicon-basic-ui-filled-line-1/32/-_Home-House--512.png" /></a>
     &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/gdhebling/"><img alt="linkedin" width="26px"
-            src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" /></a>
+            src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-512.png" /></a>
     &nbsp;&nbsp;
     <a href="https://twitter.com/gdhebling"><img alt="twitter" width="26px"
             src="https://cdn1.iconfinder.com/data/icons/logotypes/32/twitter-512.png" /></a>
