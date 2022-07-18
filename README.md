@@ -10,25 +10,16 @@
     <a href="https://twitter.com/gdhebling"><img alt="twitter" width="26px"
             src="https://cdn1.iconfinder.com/data/icons/logotypes/32/twitter-512.png" /></a>
 </p>
+
 <h3 align="center"> I'm a Front-End Developer based in Oslo, Norway</h3>
 <h4 align="center">Passionate about designing and developing clean and user-centered interfaces.</h4>
 
 <h3 align="center"> Some of the technologies I'm working with: </h3>
+
 <p align="center">
-    <a href="https://gdhebling.com"><img align="center" alt="HTML5" width="26px"
-            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>&nbsp;&nbsp;
-    <a href="https://gdhebling.com"><img align="center" alt="CSS3" width="26px"
-            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>&nbsp;&nbsp;
-    <a href="https://gdhebling.com"><img align="center" alt="Sass" width="26px"
-            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></a>&nbsp;&nbsp;
-    <a href="https://gdhebling.com"><img align="center" alt="JavaScript" width="26px"
-            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>&nbsp;&nbsp;
-    <a href="https://gdhebling.com"><img align="center" alt="TypeScript" width="26px"
-            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /></a>&nbsp;
-    <a href="https://gdhebling.com"><img align="center" alt="React" width="30px"
-            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a>&nbsp;&nbsp;
-    <a href="https://gdhebling.com"><img align="center" alt="Gatsby" width="26px" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" /></a>&nbsp;&nbsp;
-    <a href="https://gdhebling.com"><img align="center" alt="Next.js" width="26px" src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" /></a>
+  <a href="https://www.gdhebling.com">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,gatsby,nextjs" />
+  </a>
 </p>
 
 
