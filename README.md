@@ -1,7 +1,7 @@
 <h1 align="center"> Hi! I'm Gui. 👋 </h1>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/gdhebling/"><img alt="linkedin" width="26px"
+    <a href="https://www.gdhebling.com/"><img alt="personal-website" width="26px"
             src="https://cdn1.iconfinder.com/data/icons/jumpicon-basic-ui-filled-line-1/32/-_Home-House--512.png" /></a>
     &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/gdhebling/"><img alt="linkedin" width="26px"
