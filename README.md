@@ -1,4 +1,4 @@
-<h1 align="center"> Hi! I'm Gui. 👋 </h1>
+<h1 align="center"> Hi! 👋 </h1>
 
 <p align="center">
     <a href="https://www.gdhebling.com/"><img alt="personal-website" width="26px"
@@ -11,8 +11,8 @@
             src="https://cdn1.iconfinder.com/data/icons/logotypes/32/twitter-512.png" /></a>
 </p>
 
-<h3 align="center"> I'm a Front-End Developer based in Oslo, Norway</h3>
-<h4 align="center">Passionate about designing and developing clean and user-centered interfaces.</h4>
+<h3 align="center"> I'm Guilherme, I'm a Front-End Developer based in Oslo, Norway</h3>
+<h4 align="center">Passionate about designing and developing clean, user-centered interfaces.</h4>
 
 <h3 align="center"> Some of the technologies I'm working with: </h3>
 
